@@ -1,0 +1,13 @@
+Package: simpleafirma
+Architecture: all
+Section: utils
+Priority: optional
+Depends: java-runtime
+Recommends: openjdk-7-jre
+Description: Firma Facil con el Cliente @firma
+Version: 1.3
+Maintainer: Gobierno de Espana <soporte.afirma5@minhap.es>
+Changed-By: GECOS Team <gecos@guadalinex.org>
+Installed-Size: 15360
+Homepage: http://forja-ctt.administracionelectronica.gob.es/web/cache/offonce/proyectos/clienteafirma
+

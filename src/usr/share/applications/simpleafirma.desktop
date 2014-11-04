@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Firma Fácil con @firma
+Comment=Cliente @firma
+Exec=java -jar /usr/lib/simpleafirma/simpleafirma.jar
+Icon=/usr/share/simpleafirma/simpleafirma.svg
+MimeType=x-scheme-handler/afirma;
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Office
+StartupNotify=true
+StartupWMClass=simpleafirma
+
